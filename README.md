@@ -54,8 +54,7 @@ python gauntlet_plotter.py
 The script will:
 1. Find your RuneLite gauntlet tracker data
 2. List available accounts (if multiple)
-3. Generate a performance chart
-4. Save it as `gauntlet_performance.png`
+3. Display a performance chart
 
 ## Configuration
 

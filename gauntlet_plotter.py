@@ -160,10 +160,7 @@ def plot_all_metrics(runs):
     plot_metric(axes[3, 1], run_numbers, total_ticks, 'magenta', 'Fight Duration (lower = faster)', 'Ticks', invert=True)
 
     plt.tight_layout()
-    plt.savefig('gauntlet_performance.png', dpi=150)
     plt.show()
-
-    print(f"\nChart saved to gauntlet_performance.png")
 
 if __name__ == '__main__':
     data_dir = get_runelite_data_dir()
