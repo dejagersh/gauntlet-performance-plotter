@@ -35,7 +35,7 @@ A Python tool to visualize your Corrupted Gauntlet performance over time using d
 
 Enable **"Save results to a file"** in the plugin settings:
 
-![Plugin settings](images/plugin-settings.png)
+<img src="images/plugin-settings.png" width="400">
 
 ## Installation
 
