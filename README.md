@@ -2,7 +2,7 @@
 
 A Python tool to visualize your Corrupted Gauntlet performance over time using data from the [RuneLite Gauntlet Performance Tracker plugin](https://runelite.net/plugin-hub/show/gauntlet-performance-tracker).
 
-![Example output](gauntlet_performance.png)
+![Example output](images/example.png)
 
 ## Features
 
