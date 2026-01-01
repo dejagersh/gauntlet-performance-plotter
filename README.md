@@ -25,12 +25,6 @@ A Python tool to visualize your Corrupted Gauntlet performance over time using d
 | Tornado Hits | Lower = better |
 | Fight Duration | Lower = faster |
 
-## Requirements
-
-- Python 3.7+
-- matplotlib
-- [Gauntlet Performance Tracker](https://runelite.net/plugin-hub/show/gauntlet-performance-tracker) RuneLite plugin
-
 ## Plugin Setup
 
 Enable **"Save results to a file"** in the plugin settings:
@@ -40,8 +34,10 @@ Enable **"Save results to a file"** in the plugin settings:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gauntlet-performance-plotter.git
+git clone https://github.com/dejagersh/gauntlet-performance-plotter.git
 cd gauntlet-performance-plotter
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
