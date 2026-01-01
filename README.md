@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python plot_dps.py
+python gauntlet_plotter.py
 ```
 
 The script will:
@@ -53,7 +53,7 @@ The script will:
 
 ## Configuration
 
-Edit `plot_dps.py` to adjust:
+Edit `gauntlet_plotter.py` to adjust:
 
 ```python
 MIN_TICKS = 100  # Minimum fight duration to count as a real run
