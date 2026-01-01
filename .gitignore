@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Data files (user-specific)
+gauntletTracker-*.json
+
+# Output
+gauntlet_performance.png
+
+# IDE
+.idea/
+.vscode/
+*.swp
